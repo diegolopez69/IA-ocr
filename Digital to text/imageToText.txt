@@ -1,0 +1,22 @@
+Converting digitalToText2.png to string 
+
+Funciones rapidas de teclado y gestos en la
+app Fotos del Mac
+
+En la app Fotos ® del Mac, puedes realizar rapidamente una gran cantidad de tareas con ayuda de las
+funciones rapidas de teclado y los gestos. Consulta las funciones rapidas y los gestos que se muestran a
+continuacién, asi como las funciones rapidas de teclado de los menus de Fotos en la barra de ments. En
+
+los ments de la app, las funciones rapidas de teclado se representan con simbolos.
+
+Nota: Las funciones rapidas de teclado de las apps pueden variar dependiendo del idioma y de la
+disposicidn de teclado que estés usando en el Mac. Si las funciones rapidas siguientes no funcionan como
+esperas, mira en los ments de la app en la barra de ments para ver cuales son las funciones rapidas
+correctas. También puedes usar el visor de teclado para ver la disposicién actual del teclado, también
+conocido como fuente de entrada.
+
+Para usar las acciones gestuales de toque o doble toque de la tabla mostrada a continuaci6n, activa
+“Tocar para hacer clic” en el panel de ajustes Trackpad. Para usar la pulsaci6n triple para buscar
+informacion sobre el objeto de texto, activa “Consulta y detectores de datos”. Para abrir los ajustes de
+Trackpad, selecciona el menti Apple @ > Ajustes del Sistema y haz clic en Trackpad @ en la barra lateral.
+(Es posible que tengas que desplazarte hacia abajo).
